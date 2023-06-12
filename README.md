@@ -17,25 +17,25 @@ This template provides an initial setup to quickly get started on developing Rea
 
 To get started, clone the repository to your local machine.
 
-\`\`\`bash
+```bash
 git clone https://github.com/heydrigh/react-template-ts.git
-\`\`\`
+```
 
 Then, navigate to the project directory and install dependencies.
 
-\`\`\`bash
+```bash
 cd react-template-ts
 
 install
-\`\`\`
+```
 
 ## Usage
 
 To run the application in development mode:
 
-\`\`\`bash
+```bash
 yarn start
-\`\`\`
+```
 
 The application will be served at `http://localhost:3000`.
 
@@ -43,9 +43,9 @@ The application will be served at `http://localhost:3000`.
 
 To run unit tests:
 
-\`\`\`bash
+```bash
 yarn test
-\`\`\`
+```
 
 ## Theming
 
