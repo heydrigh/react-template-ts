@@ -26,7 +26,7 @@ Then, navigate to the project directory and install dependencies.
 ```bash
 cd react-template-ts
 
-install
+yarn
 ```
 
 ## Usage
